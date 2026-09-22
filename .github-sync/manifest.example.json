@@ -1,0 +1,14 @@
+{
+  "owner": "FrankieGhaf",
+  "repositories": [
+    {
+      "source": "doccano/doccano",
+      "name": "doccano",
+      "branch": "master",
+      "stars": 10772,
+      "license": "MIT",
+      "description": "Open source annotation tool for machine learning practitioners.",
+      "origin": "git@github-frankie-doccano:FrankieGhaf/doccano.git"
+    }
+  ]
+}
